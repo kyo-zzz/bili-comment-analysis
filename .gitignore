@@ -1,0 +1,13 @@
+# 数据与产物一律不入库（含任何抓取到的真实数据）
+data/
+charts/
+report.md
+*.jsonl
+*.log
+label_map.json
+label_input.txt
+game_keywords.json
+
+__pycache__/
+*.pyc
+.DS_Store
